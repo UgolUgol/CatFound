@@ -1,0 +1,26 @@
+{
+    "requestId": "3a511c92-924c-4635-b09d-2eac3f45ca85",
+    "metadata": {
+        "width": 604,
+        "height": 403,
+        "format": "Jpeg"
+    },
+    "tags": [
+        {
+            "name": "person",
+            "confidence": 0.9986327290534973
+        },
+        {
+            "name": "outdoor",
+            "confidence": 0.9968281388282776
+        },
+        {
+            "name": "sunglasses",
+            "confidence": 0.644245982170105
+        },
+        {
+            "name": "posing",
+            "confidence": 0.38703280687332153
+        }
+    ]
+}
