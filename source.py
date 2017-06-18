@@ -6,8 +6,8 @@ import ast
 from datetime import datetime, date
 
 # keys for vk and cog service
-token = '4fe9c983033f34638f8b13ac5384aac0e59958ce04f0460c355c69ee04572e11d5f607398ac16b12f9fc3'
-faceapi_key = '720a679a602745a0933158c455532ca5'
+token = 'here you vk token'
+faceapi_key = 'here you faceapi key'
 
 # init vk
 session = vk.Session(access_token=token)
